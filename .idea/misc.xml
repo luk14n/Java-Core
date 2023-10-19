@@ -9,10 +9,13 @@
         <option value="$PROJECT_DIR$/../test/pom.xml" />
         <option value="$PROJECT_DIR$/../java-basics-extended/pom.xml" />
         <option value="$PROJECT_DIR$/../java-tricky-problems/pom.xml" />
+        <option value="$PROJECT_DIR$/../interesting-problems/pom.xml" />
+        <option value="$PROJECT_DIR$/../daily-tasks/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/../interesting-problems/pom.xml" />
         <option value="$PROJECT_DIR$/../test/pom.xml" />
         <option value="$PROJECT_DIR$/../../test/pom.xml" />
       </set>

@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-core" />
         <module name="java-basics-extended" />
         <module name="java-tricky-problems" />
+        <module name="java-core" />
+        <module name="daily-tasks" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Java_Basics_Extended" target="20" />
+    </bytecodeTargetLevel>
   </component>
 </project>
